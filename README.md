@@ -56,5 +56,5 @@ $ yarn dev
 
 - [ImageKit](https://imagekit.io/)
 
-<img src="https://ik.imagekit.io/cucgno2zqys/wt1_B0p49Fo9i.PNG?updatedAt=1642012038293" alt="Home Page">
-<img src="https://ik.imagekit.io/cucgno2zqys/wt2_Y7OLG1ykqQ.PNG?updatedAt=1642012038442" alt="Curiosidades">
+<img src="https://ik.imagekit.io/cucgno2zqys/upfi_olnARKIBh.PNG?updatedAt=1642029115766" alt="Home Page">
+<img src="https://ik.imagekit.io/cucgno2zqys/upfiupload_tZpXbD75pKoP.PNG?updatedAt=1642029148460" alt="Modal Upload Images">
